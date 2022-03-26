@@ -18,9 +18,10 @@ I can conclude that:
                    3.Average prediction of about 80% is achieved thus a good model.
                    4.This system gives user friendly environment and is easy to use
                    5.As the system is based on the web application, the user is able to use it from anywhere and at any time
-                   6.XGBoost gives a higher accuracy than Logistic Regression.
+                   6.XGBoost gives a higher accuracy than Logistic Regression.With an Accuracy on Test data = 0.893(89%) and Accuracy on Test data= 0.8(80%) respectively
                    7.Lastly, the accuracy risk prediction depends on the diversity feature of the hospital data.
 
 
-
+SOLUTION:
+https://colab.research.google.com/drive/1NONUjCyLe-4dPd_4djuhuC_cPJxP9fO1?usp=sharing
 
