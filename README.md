@@ -1,5 +1,5 @@
 # AI_Diploma_Final_Project
-APPLICATION OF MACHINE LEARNING IN DIASEASE PREDICTION
+ DIASEASE PREDICTION
 
 Using Machine Learning, Logistic Regression and XGBoost to Predict Heart Failure
 
