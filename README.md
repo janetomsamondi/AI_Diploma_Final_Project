@@ -22,6 +22,5 @@ I can conclude that:
                    7.Lastly, the accuracy risk prediction depends on the diversity feature of the hospital data.
 
 
-SOLUTION:
-https://colab.research.google.com/drive/1NONUjCyLe-4dPd_4djuhuC_cPJxP9fO1?usp=sharing
+
 
